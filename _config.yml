@@ -28,7 +28,7 @@ baseurl: "tingoyenda" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fahimscirex
 github_username:  fahimscirex
-twitter:
+#twitter:
   username: fahimscirex
   card: summary
 
@@ -36,25 +36,24 @@ twitter:
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
+#  - jekyll-seo-tag
+#  - jekyll-sitemap
+#  - jekyll-paginate
 
-author:
-  name: Mubashshir
-  picture: https://en.gravatar.com/userimage/115754305/2a0a1a30ab544d8c5e7b45bfc8c1a1f5.png
-  email: fahimscirex@yandex.com
-  twitter: fahimscirex
-  links:
-    - title: Mail
-      url: mailto:fahimscirex@gmail.com
-      icon: fas fa-at
-    - title: Reddit
-      url: https://reddit.com/u/fahimscirex
-      icon: fab fa-reddit
-    - title: Telegram
-      url: https://t.me/themanfrombakerstreet
-      icon: fab fa-telegram
+# author:
+#  picture: https://en.gravatar.com/userimage/115754305/2a0a1a30ab544d8c5e7b45bfc8c1a1f5.png
+#  email: fahimscirex@yandex.com
+#  twitter: fahimscirex
+#  links:
+#    - title: Mail
+#      url: mailto:fahimscirex@gmail.com
+#      icon: fas fa-at
+#    - title: Reddit
+#      url: https://reddit.com/u/fahimscirex
+#      icon: fab fa-reddit
+#    - title: Telegram
+#      url: https://t.me/themanfrombakerstreet
+#      icon: fab fa-telegram
 
 # Exclude from processing.
 # The following items will not be processed, by default.
