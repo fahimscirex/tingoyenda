@@ -33,7 +33,7 @@ github_username:  fahimscirex
 #  card: summary
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 #  - jekyll-seo-tag
