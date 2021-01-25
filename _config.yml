@@ -8,3 +8,5 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://3goyenda.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tingoyendaorg
 github_username: fahimscirex
+
+theme: jekyll-theme-cayman
