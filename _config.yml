@@ -29,8 +29,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fahimscirex
 github_username:  fahimscirex
 #twitter:
-  username: fahimscirex
-  card: summary
+#  username: fahimscirex
+#  card: summary
 
 # Build settings
 theme: minima
