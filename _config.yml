@@ -33,24 +33,13 @@ github_username:  fahimscirex
 #  card: summary
 
 # Build settings
-#theme: cayman
+theme: cayman
 plugins:
   - jekyll-feed
 #  - jekyll-seo-tag
 #  - jekyll-sitemap
 #  - jekyll-paginate
-# Build settings
-markdown: kramdown
-remote_theme: "ahmubashshir/so-simple-theme@devel"
-skin: "/assets/css/skins/dark.css"
-paginate: 10  # amount of posts to show per page
-paginate_path: "/posts/:num/"
-permalink: post/:year/:month/:day/:title
-category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"
-search_full_content: false
-mathjax:
-  enable: true
+
 # author:
 #  picture: https://en.gravatar.com/userimage/115754305/2a0a1a30ab544d8c5e7b45bfc8c1a1f5.png
 #  email: fahimscirex@yandex.com
