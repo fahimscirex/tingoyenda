@@ -34,6 +34,9 @@ theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
+- name: Hugo to GH Pages
+  uses: chabad360/hugo-gh-pages@v2
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
