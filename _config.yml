@@ -33,7 +33,11 @@ github_username:  fahimscirex
 #  card: summary
 
 # Build settings
+<<<<<<< HEAD
 theme: cayman
+=======
+theme: jekyll-theme-merlot
+>>>>>>> 23c3d861b79a6af6d85bb367b2e8968a56c0f549
 plugins:
   - jekyll-feed
 #  - jekyll-seo-tag
